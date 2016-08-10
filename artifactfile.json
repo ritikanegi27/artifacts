@@ -33,7 +33,7 @@
         "autoUpgradeMinorVersion": "true",
         "settings": {
             "fileUris": "",
-            "commandToExecute": "powershell.exe -ExecutionPolicy bypass -File .ps1"
+            "commandToExecute": "powershell.exe -ExecutionPolicy bypass -File installDomainController.ps1"
         },
         
     }
